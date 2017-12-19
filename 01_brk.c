@@ -5,8 +5,6 @@ int curr_brk, def_brk, new_brk;
 
 int main()
 {
-	int ret, *p;
-
 	/*Grab current program break address*/
 	curr_brk = sbrk(0);
 	def_brk = curr_brk;
