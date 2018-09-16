@@ -1,20 +1,28 @@
 [
-	{
+{
+	  "title":"Title1",
+	  "Snippet":"Snippet1",
       "vehicle":"vehicle1",
       "latitude": "17.496018",
       "longitude": "78.425118"
     },
 	{
+	  "title":"Title2",
+	  "Snippet":"Snippet2",
       "vehicle":"vehicle2",
       "latitude": "17.483964",
       "longitude": "78.449556"
     },
 	{
+	  "title":"Title3",
+	  "Snippet":"Snippet3",
       "vehicle":"vehicle3",
       "latitude": "17.487263",
       "longitude": "78.404932"
     },
     {
+	  "title":"Title4",
+	  "Snippet":"Snippet4",
       "vehicle":"vehicle4",
       "latitude": "17.467441",
       "longitude": "78.409264"
