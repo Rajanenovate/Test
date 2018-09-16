@@ -1,0 +1,22 @@
+[
+	{
+      "vehicle":"vehicle1",
+      "latitude": "17.496018",
+      "longitude": "78.425118"
+    },
+	{
+      "vehicle":"vehicle2",
+      "latitude": "17.483964",
+      "longitude": "78.449556"
+    },
+	{
+      "vehicle":"vehicle3",
+      "latitude": "17.487263",
+      "longitude": "78.404932"
+    },
+    {
+      "vehicle":"vehicle4",
+      "latitude": "17.467441",
+      "longitude": "78.409264"
+    }
+]
